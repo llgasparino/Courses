@@ -1,0 +1,1 @@
+O github é meio que um youtube que guarda repositórios ao invés de videos.
