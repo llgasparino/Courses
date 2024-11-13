@@ -22,3 +22,9 @@
 ### Usando js para programar
 > Definindo uma função, precisamos setar ela como default com o comando: 
 > export default ...;
+
+### One man's Trash is another man's Treasure.
+```mermaid
+graph TD
+Start --> Stop
+```
