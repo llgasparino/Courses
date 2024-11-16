@@ -31,3 +31,4 @@ EXERCÍCIOS
 máximo de etapas agora?
 9
 (Isso faz referência ao log2^N == 8)
+
