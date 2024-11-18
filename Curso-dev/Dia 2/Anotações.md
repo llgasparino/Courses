@@ -24,7 +24,3 @@
 > export default ...;
 
 ### One man's Trash is another man's Treasure.
-```mermaid
-graph TD
-Start --> Stop
-```
