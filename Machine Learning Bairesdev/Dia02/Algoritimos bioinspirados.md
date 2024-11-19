@@ -11,3 +11,6 @@
 ## Redes Neurais
 - Rede neural artificial (RNA
 ![alt text](image.png))
+
+Algoritimo Genetico (AG)
+
