@@ -23,3 +23,7 @@ Podemos criar policies para maquinas especificas
 
 ARN: Amazon Resource Name
 Para gerenciar policies específicas 
+
+## Roles e Policies 
+Policies == CRUD
+ 

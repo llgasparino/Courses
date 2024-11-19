@@ -9,3 +9,5 @@
 > Repostas Heuristicas - Testando e aprendendo
 
 ## Redes Neurais
+- Rede neural artificial (RNA
+![alt text](image.png))
