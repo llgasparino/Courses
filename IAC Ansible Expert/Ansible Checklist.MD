@@ -1,0 +1,64 @@
+# IAC Ansible Expert - Checklist
+- [ ] Ao Vivo
+   - [ ] Day 1 - Ao Vivo - LINUXtips.mp4
+   - [ ] Day 2- Ao Vivo - LINUXtips.mp4
+   - [ ] Day 3 - Ao Vivo - LINUXtips.mp4
+   - [ ] Day 4 - Ao Vivo - LINUXtips.mp4
+   - [ ] Day 5 - Ao Vivo - LINUXtips.mp4
+- [ ] Aula Extra
+   - [ ] Aula ao vivo - 25-04-2020 - LINUXtips.mp4
+- [ ] Day 01
+   - [ ] 01-Abertura - Day 1 - LINUXtips.mp4
+   - [ ] 02-Criando nossas instâncias e instalando o Ansible - LINUXtips.mp4
+   - [ ] 03-Setup inicial e o nosso primeiro ping! - LINUXtips.mp4
+   - [ ] 04-Brincando com o Ansible, seus módulos e comandos ad-hoc - LINUXtips.mp4
+   - [ ] 05-Criando o nosso primeiro e tosko Playbook - LINUXtips.mp4
+   - [ ] 06-Encerramento - Day 1 - LINUXtips.mp4
+   - [ ] Arquivos.txt
+   - [ ] Requisitos.txt
+   - [ ] history.txt
+- [ ] Day 02
+   - [ ] 01-Abertura - Day 2 - LINUXtips.mp4
+   - [ ] 02-Criando o nosso primeiro e tosko template - LINUXtips.mp4
+   - [ ] 03-Encerramento - Day 2 - LINUXtips.mp4
+   - [ ] 04-O nosso projeto Ansible + AWS + Kubernetes - LINUXtips.mp4
+   - [ ] 05-Provisioning - Criando o nosso primeiro playbook do projeto. - LINUXtips.mp4
+   - [ ] 06-Provisioning - Executando o nosso primeiro playbook do projeto. - LINUXtips.mp4
+   - [ ] Arquivos.txt
+   - [ ] Links Importantes.txt
+   - [ ] Requisitos.txt
+- [ ] Day 03
+   - [ ] 01-Abertura - Day 3 - LINUXtips.mp4
+   - [ ] 02-Install_k8s - Adicionando outros nodes ao nosso cluster k8s - LINUXtips.mp4
+   - [ ] 03-Install_k8s - Criando a role para instalar Docker e K8s - LINUXtips.mp4
+   - [ ] 04-Install_k8s - Criando o nosso cluster K8s - LINUXtips.mp4
+   - [ ] 05-Install_k8s - Criando o nosso playbook - LINUXtips.mp4
+   - [ ] 06-Install_k8s - Executando o nosso playbook - LINUXtips.mp4
+   - [ ] 07-Install_k8s - Executando o nosso playbook - LINUXtips_2.mp4
+   - [ ] 08-Encerramento - Day 3 - LINUXtips.mp4
+   - [ ] Arquivos.txt
+- [ ] Day 04
+   - [ ] 01-Abertura Day-4 - LINUXtips.mp4
+   - [ ] 02-Criando Role para instalar o Helm3 - LINUXtips.mp4
+   - [ ] 03-Criando Role para instalar o Prometheus Operator - parte 1 - LINUXtips.mp4
+   - [ ] 04-Criando Role para instalar o Prometheus Operator - parte 2 - LINUXtips.mp4
+   - [ ] 05-Criando um novo playbook para o deploy da App Giropops - Parte 1 - LINUXtips.mp4
+   - [ ] 06-Criando um novo playbook para o deploy da App Giropops - Parte 2 - LINUXtips.mp4
+   - [ ] 07-Encerramento Day-4 - LINUXtips.mp4
+   - [ ] Arquivos.txt
+- [ ] Day 05
+   - [ ] 01-Abertura Day 5 - LINUXtips.mp4
+   - [ ] 02-Criando o playbook para o deploy da App Giropops V2 - LINUXtips.mp4
+   - [ ] 03-Utilizando Handlers em nosso playbook - LINUXtips.mp4
+   - [ ] 04-Encerramento e exercício do Day 5 - LINUXtips.mp4
+- [ ] Day 06
+    - [ ] 01-Abertura Day-6 - LINUXtips.mp4
+    - [ ] 02-Ansible-Vault - Como configurar no AWX - LINUXtips.mp4
+    - [ ] 03-Ansible-Vault - Como utilizar o Ansible-Vault - LINUXtips.mp4
+    - [ ] 04-AWX - Criando e executando o nosso primeiro Template - LINUXtips.mp4
+    - [ ] 05-AWX - Criando e executando o nosso Workflow - LINUXtips.mp4
+    - [ ] 06-AWX - Criando o nosso inventário e o nosso projeto - LINUXtips.mp4
+    - [ ] 07-AWX - Instalação e Configuração - LINUXtips.mp4
+    - [ ] 08-AWX - Intro - LINUXtips.mp4
+    - [ ] 09-AWX - Mais alguns detalhes - LINUXtips.mp4
+    - [ ] 10-Encerramento Day-6 - LINUXtips.mp4

@@ -1,0 +1,328 @@
+# Go Expert
+
+- [ ] **01-Introdução**
+  - [ ] 01-Introdução.mp4
+  - [ ] 02-O que é a Linguagem GO.mp4
+  - [ ] 03-Histórico.mp4
+  - [ ] 04-O que GO NÃO é.mp4
+  - [ ] 05-Motivações.mp4
+- [ ] **02-Configurando ambiente**
+  - [ ] 01-Instalação.mp4
+  - [ ] 02-Principais pastas.mp4
+  - [ ] 03-Go no VSCode.mp4
+- [ ] **03-Fundação**
+  - [ ] 01-Entendendo a primeira linha.mp4
+  - [ ] 02-Declaração e atribuição.mp4
+  - [ ] 03-Criação de tipos.mp4
+  - [ ] 04-Importando fmt e tipagem.mp4
+  - [ ] 05-Percorrendo Arrays.mp4
+  - [ ] 06-Slices.mp4
+  - [ ] 07-Maps.mp4
+  - [ ] 08-Funções.mp4
+  - [ ] 09-Funções variádicas.mp4
+  - [ ] 10-Closures.mp4
+  - [ ] 11-Iniciando com Structs.mp4
+  - [ ] 12-Composição de Structs.mp4
+  - [ ] 13-Métodos em Structs.mp4
+  - [ ] 14-Interfaces.mp4
+  - [ ] 15-Ponteiros.mp4
+  - [ ] 16-Quando usar ponteiros.mp4
+  - [ ] 17-Ponteiros e Structs.mp4
+  - [ ] 18-Interfaces vazias.mp4
+  - [ ] 19-Type assertation.mp4
+  - [ ] 20-Generics.mp4
+  - [ ] 21-Pacotes e módulos parte 1.mp4
+  - [ ] 22-Pacotes e módulos parte 2.mp4
+  - [ ] 23-Pacotes e módulos parte 3.mp4
+  - [ ] 24-Instalando pacotes.mp4
+  - [ ] 25-For.mp4
+  - [ ] 26-Condicionais.mp4
+  - [ ] 27-Compilando projeto.mp4
+- [ ] **04-Pacotes importantes**
+  - [ ] 01-Manipulação de arquivos.mp4
+  - [ ] 02-Realizando chamada HTTP.mp4
+  - [ ] 03-Defer.mp4
+  - [ ] 04-Trabalhando com json.mp4
+  - [ ] 05-Busca CEP.mp4
+  - [ ] 06-Iniciando com HTTP.mp4
+  - [ ] 07-Manipulando Headers.mp4
+  - [ ] 08-Criando função para BuscaCEP.mp4
+  - [ ] 09-Finalizando resposta para o servidor HTTP.mp4
+  - [ ] 10-ServeMux.mp4
+  - [ ] 11-FileServer.mp4
+  - [ ] 12-Iniciando com templates.mp4
+  - [ ] 13-Template.Must.mp4
+  - [ ] 14-Templates com arquivo externo.mp4
+  - [ ] 15-Templates com webserver.mp4
+  - [ ] 16-Compondo templates.mp4
+  - [ ] 17-Mapeando funções nos templates.mp4
+  - [ ] 18-HttpClient com Timeout.mp4
+  - [ ] 19-Trabalhando com Post.mp4
+  - [ ] 20-Customizando Request.mp4
+  - [ ] 21-Trabalhando com HTTP usando Contextos.mp4
+  - [ ] DCStop.html
+- [ ] **05-Context**
+  - [ ] 01-Introdução aos contexto.mp4
+  - [ ] 02-Entendendo conceitos básicos.mp4
+  - [ ] 03-Context utilizando server HTTP.mp4
+  - [ ] 04-Context no lado do Client.mp4
+  - [ ] 05-Context WithValue.mp4
+- [ ] **06-Banco de dados**
+  - [ ] 01-Introdução a banco de dados.mp4
+  - [ ] 02-Preparando base de código.mp4
+  - [ ] 03-Inserindo dados no banco.mp4
+  - [ ] 04-Alterando dados no banco.mp4
+  - [ ] 05-Trabalhando com QueryRow.mp4
+  - [ ] 06-Selecionando múltiplos registros.mp4
+  - [ ] 07-Removendo registro.mp4
+  - [ ] 08-Iniciando com GORM.mp4
+  - [ ] 10-Realizando primeiras consultas.mp4
+  - [ ] 11-Realizando consultas com where.mp4
+  - [ ] 12-Alterando e removendo registros.mp4
+  - [ ] 13-Trabalhando com Soft delete.mp4
+  - [ ] 14-Belongs to.mp4
+  - [ ] 15-Has One.mp4
+  - [ ] 16-Has many.mp4
+  - [ ] 17-Pegadinha no has many.mp4
+  - [ ] 18-Many to Many.mp4
+  - [ ] 19-Lock otimista vs Pessimista.mp4
+  - [ ] 09-Configurando e criando operações.mp4
+- [ ] **07-Packaging**
+  - [ ] 01-Introduzindo go mod.mp4
+  - [ ] 02-Acessando pacotes criados.mp4
+  - [ ] 03-Exportação de objetos.mp4
+  - [ ] 04-Entendendo go mod.mp4
+  - [ ] 05-Trabalhando com go mod replace.mp4
+  - [ ] 06-Usando workspaces.mp4
+- [ ] **08-Testing**
+  - [ ] 01-Iniciando com testes automatizados.mp4
+  - [ ] 02-Testando em batch.mp4
+  - [ ] 03-Verificando cobertura de código.mp4
+  - [ ] 04-Trabalhando com benchmarking.mp4
+  - [ ] 05-Fuzzing.mp4
+  - [ ] 06-Iniciando com Testify.mp4
+  - [ ] 07-Trabalhando com Mocks.mp4
+- [ ] **09-APIs**
+  - [ ] 01-Falando sobre APIs.mp4
+  - [ ] 02-Estruturando diretórios.mp4
+  - [ ] 03-Criando arquivo de configuração.mp4
+  - [ ] 04-Finalizando configuração.mp4
+  - [ ] 05-Outras possibilidades de configuração.mp4
+  - [ ] 06-Criando entidade User.mp4
+  - [ ] 07-Testando User.mp4
+  - [ ] 08-Criando entidade Product.mp4
+  - [ ] 09-Testando Product.mp4
+  - [ ] 10-Criando UserDB.mp4
+  - [ ] 11-Testando criação do usuário.mp4
+  - [ ] 12-Finalizando teste de UserDB.mp4
+  - [ ] 13-Criando principais métodos de ProductDB.mp4
+  - [ ] 14-Criando FindAll com paginação.mp4
+  - [ ] 15-Testando ProductDB.mp4
+  - [ ] 16-Finalizando testes de ProductDB.mp4
+  - [ ] 17-Criando handler para criar produto.mp4
+  - [ ] 18-Testando endpoint de criação de Product.mp4
+  - [ ] 19-Ajustando package para os handlers.mp4
+  - [ ] 20-Web frameoworks vs Frameworks.mp4
+  - [ ] 21-Roteadores.mp4
+  - [ ] 22-Buscando e alterando products.mp4
+  - [ ] 23-Listando e removendo Products.mp4
+  - [ ] 24-Criando user.mp4
+  - [ ] 25-Falando sobre JW.mp4
+  - [ ] 26-Gerando token JWT.mp4
+  - [ ] 27-Protegendo products.mp4
+  - [ ] 28-Criando e trabalhando com middlewares.mp4
+  - [ ] 29-Iniciando com documentação da API.mp4
+  - [ ] 30-Gerando primeira documentação.mp4
+  - [ ] 31-Acessando swagger pela primeira vez.mp4
+  - [ ] 32-Documentando criação do User.mp4
+  - [ ] 33-Trabalhando na geração do access token.mp4
+  - [ ] 34-Criando e listando products.mp4
+  - [ ] 35-Finalizando docs.mp4
+- [ ] **10-Multithreading**
+  - [ ] 0.mp4
+  - [ ] 01-Iniciando com Processos.mp4
+  - [ ] 02-Introdução a concorrência e Mutex.mp4
+  - [ ] 03-Concorrência vs Paralelismo vs Go.mp4
+  - [ ] 04-Multithreading.mp4
+  - [ ] 05-Scheduler.mp4
+  - [ ] 06-Go e suas green threads.mp4
+  - [ ] 07-Iniciando com Go Routines.mp4
+  - [ ] 09-Problema simples de concorrência.mp4
+  - [ ] 10-Entendendo Mutex e Operações Atômicas.mp4
+  - [ ] 11-Iniciando com Channel.mp4
+  - [ ] 12-Forever.mp4
+  - [ ] 13-Iterando com range.mp4
+  - [ ] 14-Range With WaitGroup.mp4
+  - [ ] 15-Channel Directions.mp4
+  - [ ] 16-Criando um Load Balancer.mp4
+  - [ ] 17-Trabalhando com Select.mp4
+  - [ ] 18-Canais com Buffer.mp4
+- [ ] **11-Manipulando eventos**
+  - [ ] 01-Introdução a eventos.mp4
+  - [ ] 02-Elementos táticos de um contexto de eventos.mp4
+  - [ ] 03-Criando Interfaces da solução.mp4
+  - [ ] 04-Registrando eventos.mp4
+  - [ ] 05-Criando suite de testes.mp4
+  - [ ] 06-Testando Register.mp4
+  - [ ] 07-Testando Registro de Handlers Repetidos.mp4
+  - [ ] 08-Implementando e testando método Clear.mp4
+  - [ ] 09-Implementando e testando método Has.mp4
+  - [ ] 10-Implementando método Dispatch.mp4
+  - [ ] 11-Revisitando slices.mp4
+  - [ ] 12-Removendo handlers.mp4
+  - [ ] 13-Adicionando go routine no event dispatcher.mp4
+  - [ ] 14-Utilizando go routines no Dispatcher.mp4
+  - [ ] 15-Instalando RabbitMQ.mp4
+  - [ ] 16-Entendendo o RabbitMQ.mp4
+  - [ ] 17-Consumindo mensagens do RabbitMQ.mp4
+  - [ ] 18-Criando consumidor na pratica.mp4
+  - [ ] 19-Produzindo e consumindo mensagens.mp4
+- [ ] **12-Módulos privados**
+  - [ ] 01-Introdução.mp4
+  - [ ] 02-Criando repositório privado.mp4
+  - [ ] 03-Configurando GOPRIVATE.mp4
+  - [ ] 04-Autenticando no Bitbucket.mp4
+  - [ ] 05-Go Proxy vs Vendor.mp4
+- [ ] **13-GraphQL**
+  - [ ] 01-Introdução ao GraphQL.mp4
+  - [ ] 02-Gerando esqueleto do servidor GraphQL.mp4
+  - [ ] 03-Criando Schema GraphQL.mp4
+  - [ ] 04-Gerando esqueleto de nossa aplicação.mp4
+  - [ ] 05-Criando resolver para Category.mp4
+  - [ ] 06-Persistindo Category via Playground.mp4
+  - [ ] 07-Fazendo queries de Category.mp4
+  - [ ] 08-Implementando CourseDB.mp4
+  - [ ] 09-Criando resolver de CreateCourse.mp4
+  - [ ] 10-Implementando QueryCourses.mp4
+  - [ ] 11-Dados encadeados.mp4
+  - [ ] 12-Finalizando encadeamento de categorias.mp4
+- [ ] **14-gRPC**
+  - [ ] 01-Iniciando com gRPC.mp4
+  - [ ] 02-Conceitos iniciais.mp4
+  - [ ] 03-gRPC HTTP2 e Protocol Buffers.mp4
+  - [ ] 04-Formatos de comunicação.mp4
+  - [ ] 05-REST vs gRPC.mp4
+  - [ ] 06-gRPC vs Protocol Buffers.mp4
+  - [ ] 07-Instalando compilador e plugins.mp4
+  - [ ] 08-Fazendo setup do projeto.mp4
+  - [ ] 09-Criando nosso protofile.mp4
+  - [ ] 10-Fazendo geração de código com protoc.mp4
+  - [ ] 11-Implementando CreateCategory.mp4
+  - [ ] 12-Criando servidor gRPC.mp4
+  - [ ] 13-Interagindo com evans.mp4
+  - [ ] 14-Criando categoryList no protofile.mp4
+  - [ ] 15-Listando categories.mp4
+  - [ ] 16-Buscando uma categoria.mp4
+  - [ ] 17-Trabalhando com stream.mp4
+  - [ ] 18-Trabalhando com streams bidirecionais.mp4
+- [ ] **15-Upload S3**
+  - [ ] 0.mp4
+  - [ ] 01-Entendendo o problema referente a upload.mp4
+  - [ ] 02-Gerando arquivos exemplo.mp4
+  - [ ] 03-Configurando AWS session.mp4
+  - [ ] 04-Desenvolvendo função de upload.mp4
+  - [ ] 06-Criando credenciais na AWS.mp4
+  - [ ] 07-Fazendo upload de forma serial.mp4
+  - [ ] 08-Realizando uploads usando go routines.mp4
+  - [ ] 09-Limitando quantidade máxima de upload.mp4
+  - [ ] 10-Fazendo retentativas de erro.mp4
+- [ ] **16-Cobra CLI**
+  - [ ] 01-Introdução sobre CLI.mp4
+  - [ ] 02-Setup básico da aplicação.mp4
+  - [ ] 03-Inicializando projeto cobra.mp4
+  - [ ] 04-Criando nossos primeiros comandos.mp4
+  - [ ] 05-Comandos encadeados.mp4
+  - [ ] 06-Flags locais vs globais.mp4
+  - [ ] 07-Manipulando flags.mp4
+  - [ ] 08-Flags mudando valor por referência.mp4
+  - [ ] 09-Entendendo hooks.mp4
+  - [ ] 10-Trabalhando com banco de dados.mp4
+  - [ ] 11-Inversão de controle ao executar comandos.mp4
+- [ ] **17-SQLC**
+  - [ ] 01-Mais sobre banco de dados.mp4
+  - [ ] 02-Trabalhando com migrations.mp4
+  - [ ] 03-Falando sobre SQLX.mp4
+  - [ ] 04-Iniciando com SQLC.mp4
+  - [ ] 05-Criando CRUD.mp4
+  - [ ] 06-Finalizando CRUD.mp4
+  - [ ] 07-Iniciando com transações.mp4
+  - [ ] 08-Implementando método para transação.mp4
+  - [ ] 09-Vendo a transação funcionar.mp4
+  - [ ] 10-Ajustando tipo de campo.mp4
+  - [ ] 11-Exibindo dados com Join.mp4
+- [ ] **18-UOW**
+  - [ ] 01-Apresentando caso.mp4
+  - [ ] 02-Entendendo inconsistência.mp4
+  - [ ] 03-Entendendo Unit of Work.mp4
+  - [ ] 04-Criando interface do UOW.mp4
+  - [ ] 05-Registrando repositórios.mp4
+  - [ ] 06-Implementando principais métodos.mp4
+  - [ ] 07-Implementando GetRepository.mp4
+  - [ ] 08-Criando novo caso de uso.mp4
+  - [ ] 09-Testando implementação com uow.mp4
+- [ ] **19-DI**
+  - [ ] 01-Introdução sobre DI.mp4
+  - [ ] 02-Criando situação problema.mp4
+  - [ ] 03-Exibindo árvore de dependencias.mp4
+  - [ ] 04-Bibliotecas de DI.mp4
+  - [ ] 05-Wire na prática.mp4
+  - [ ] 06-Trabalhando com sets e Interfaces.mp4
+  - [ ] 07-Sem pontas soltas.mp4
+- [ ] **20-Clean Architecture**
+  - [ ] 01-Introdução.mp4
+  - [ ] 02-Origem da Clean Architecture.mp4
+  - [ ] 03-Pontos importantes sobre arquitetura.mp4
+  - [ ] 04-Keep options open.mp4
+  - [ ] 05-Use Cases.mp4
+  - [ ] 06-O fluxo dos Use Cases.mp4
+  - [ ] 07-Limites arquiteturais.mp4
+  - [ ] 08-Input vs Output.mp4
+  - [ ] 09-Entendendo DTOs.mp4
+  - [ ] 10-Presenters.mp4
+  - [ ] 11-Entities vs DDD.mp4
+  - [ ] 12-Nosso objetivo.mp4
+  - [ ] 13-Entity e UseCase.mp4
+  - [ ] 14-Repositorios e EventHandler.mp4
+  - [ ] 15-Webserver.mp4
+  - [ ] 16-gRPC.mp4
+  - [ ] 17-GraphQL.mp4
+  - [ ] 18-Configuração com Viper.mp4
+  - [ ] 19-RabbitMQ e Google Wire.mp4
+  - [ ] 20-Executando servidores.mp4
+  - [ ] 21-Tudo funcionando.mp4
+  - [ ] 22-Sobre o desafio.mp4
+- [ ] **21-Deploy com Docker e Kubernetes**
+  - [ ] 01-O que faremos.mp4
+  - [ ] 02-Criando projeto exemplo.mp4
+  - [ ] 03-Criando Dockerfile.mp4
+  - [ ] 04-Go com Docker em modo dev.mp4
+  - [ ] 05-Entendendo processo de build.mp4
+  - [ ] 06-Otimizando geração do executável.mp4
+  - [ ] 07-Gerando imagem otimizada.mp4
+  - [ ] 08-C GO e seus impactos.mp4
+  - [ ] 09-Criando cluster kubernetes com Kind.mp4
+  - [ ] 10-Criando primeiro deployment.mp4
+  - [ ] 11-Criando service no kubernetes.mp4
+  - [ ] 12-Probes.mp4
+  - [ ] 13-Palavras finais.mp4
+- [ ] **Eventos**
+  - [ ] **Go intensivo 1 (PFA)**
+    - [ ] split_GO- Oportunidades e primeiros passos_9fb99-001.mp4
+    - [ ] split_GO- Oportunidades e primeiros passos_9fb99-002.mp4
+    - [ ] split*Go_HTTP,\_APIs_e_Deployment*+\_Oportunidade_para_se_aprofundar (1).mp4
+    - [ ] split*Go_HTTP,\_APIs_e_Deployment*+\_Oportunidade_para_se_aprofundar.mp4
+    - [ ] split_Go_Performance_e_Multithreading_com_RabbitMQ_9fb99_001.mp4
+    - [ ] split_Go_Performance_e_Multithreading_com_RabbitMQ_9fb99_002.mp4
+  - [ ] **Go intensivo 2**
+    - [ ] Go*HTTP,\_APIs_e_Deployment*+\_Oportunidade_para_se_aprofundar_com.mp4
+    - [ ] split_GO- Oportunidades e primeiros passos_2_bb0c2-001.mp4
+    - [ ] split_GO- Oportunidades e primeiros passos_2_bb0c2-002.mp4
+    - [ ] split_Go_Performance_e_Multithreading_com_RabbitMQ_2_bb0c2_001.mp4
+    - [ ] split_Go_Performance_e_Multithreading_com_RabbitMQ_2_bb0c2_002.mp4
+  - [ ] **Go intensivo 3**
+    - [ ] split*Go_Performance_e_Multithreading_com_Kafka*+\_Computação_Visual01.mp4
+    - [ ] split*Go_Performance_e_Multithreading_com_Kafka*+\_Computação_Visual02.mp4
+    - [ ] split_Golang- Oportunidades e primeiros passos_b9b12-001.mp4
+    - [ ] split_Golang- Oportunidades e primeiros passos_b9b12-002.mp4
+    - [ ] split*Integração_do_Chat_GPT_com_WhatsApp*+\_Abertura_das_matrículas01.mp4
+    - [ ] split*Integração_do_Chat_GPT_com_WhatsApp*+\_Abertura_das_matrículas02.mp4

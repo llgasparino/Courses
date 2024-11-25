@@ -11,8 +11,9 @@
 > Npm install next@Versão
 
 ### Dentro de scripts no package.json 
-> "Dev":"Next dev"
+> "Dev":"next dev"
 - npm run dev
+> "lint:check": "prettier --check ."
 
 ### Estrutura de arquivos
 - Pages

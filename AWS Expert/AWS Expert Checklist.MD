@@ -1,0 +1,353 @@
+# AWS Expert - Checklist
+
+- [x]**Day 01**
+  - [x] 01 - Who am I.mp4
+  - [x] 02 - What is Cloud.mp4
+  - [x] 03 - Characteristics and Advantages, part 1.mp4
+  - [x] 04 - Characteristics and Advantages, part 2.mp4
+  - [x] 05 - Characteristics and Advantages, part 3.mp4
+  - [x] 06 - Service models.mp4
+  - [x] 07 - Deployment models.mp4
+- [x]**Day 02**
+  - [x] 01 - Foundation - Intro.mp4
+  - [x] 02 - Root Accounts, part 1.mp4
+  - [x] 03 - Root Accounts, part 2.mp4
+  - [x] 04 - Organizational Unit (OU).mp4
+  - [x] 05 - AWS Accounts, part 1.mp4
+  - [x] 06 - AWS Accounts, part 2.mp4
+  - [x] 07 - Creating Account, part 1.mp4
+  - [x] 08 - Creating Account, part 2.mp4
+  - [x] 09 - AWS Free Tier.mp4
+  - [x] 10 - Creating Account, part 3.mp4
+  - [x] 11 - Creating, Account, part 4.mp4
+  - [x] 12 - My Security Credentials.mp4
+  - [x] 13 - AWS Organizations.mp4
+  - [x] 14 - AWS Support Center, Service Limits.mp4
+  - [x] 15 - AWS SCP - Service Control Policies, part 1.mp4
+  - [x] 16 - AWS SCP - Service Control Policies, part 2.mp4
+  - [x] 17 - AWS SCP - Service Control Policies, part 3.mp4
+  - [x] Exercicios
+    - [x] 01 - Today-s-Lesson.png
+    - [x] 02 - Today-s-Lesson.png
+    - [x] 03 - Today-s-Lesson.png
+    - [x] 04 - Today-s-Lesson.png
+    - [x] 05 - Today-s-Lesson.png
+    - [x] 06 - Today-s-Lesson.png
+    - [x] 07 - Today-s-Lesson.png
+    - [x] 08 - Today-s-Lesson.png
+    - [x] 09 - Today-s-Lesson.png
+  - [x] Links.txt
+- [x]**Day 03**
+  - [x] 01 - AWS Well-Architected - Intro.mp4
+  - [x] 02 - AWS Well-Architected, part 2.mp4
+  - [x] 03 - AWS Well-Architected, part 3.mp4
+  - [x] 04 - Define Workload.mp4
+  - [x] 05 - Framework Questions, part 1.mp4
+  - [x] 06 - Framework Questions, part 2.mp4
+  - [x] 07 - Milestones.mp4
+  - [x] 08 - Reports and Improvement Plan.mp4
+  - [x] 09 -**Day 03 Well-Finished.mp4**
+  - [x] Exercicios
+    - [x] Today-s-Lesson.png
+  - [x] Links.txt
+- [x]**Day 04**
+  - [x] 01 - IAM - Intro.mp4
+  - [x] 02 - Dashboard.mp4
+  - [x] 03 - Groups.mp4
+  - [x] 04 - Users.mp4
+  - [x] 05 - Users, part 2.mp4
+  - [x] 06 - MFA - Multi-factor Authentication.mp4
+  - [x] 07 - MFA - Multi-factor Authentication part 2.mp4
+  - [x] 08 - MFA - Multi-factor Authentication - Hardware.mp4
+  - [x] 09 - My IAM user.mp4
+  - [x] 10 - Roles.mp4
+  - [x] 11 - Attach IAM Roles.mp4
+  - [x] 12 - Policies.mp4
+  - [x] 13 - Policies, part 2.mp4
+  - [x] Exercícios
+    - [x] Today's Lesson.txt
+  - [x] Links.txt
+- [ ] **Day 05**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - Cross Account Roles.mp4
+  - [ ] 03 - Assume Role.mp4
+  - [ ] 04 - Create Policies.mp4
+  - [ ] 05 - Error on Create Policy.mp4
+  - [ ] 06 - Attach Policy.mp4
+  - [ ] 07 - Identity Providers.mp4
+  - [ ] 08 - Account Settings.mp4
+  - [ ] 09 - Credentials Report and Overview.mp4
+  - [ ] Exercícios
+    - [ ] Today-s-Lesson.png
+  - [ ] Links.txt
+- [ ] **Day 06**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - EC2 - Tipos e preços.mp4
+  - [ ] 03 - EC2 - Criando a nossa primeira instancia.mp4
+  - [ ] 04 - EC2 - Conectando via SSH em nossa instancia.mp4
+  - [ ] 05 - EC2 - Security Group - parte1.mp4
+  - [ ] 06 - EC2 - Security Group - parte2.mp4
+  - [ ] 07 - EC2 - Monitoração básica e alarmes.mp4
+  - [ ] 08 - EC2 - Criando outros tipos de instancias.mp4
+  - [ ] 09 - EC2 - Criando e utilizando um EBS em nossa instancia LINUXti.mp4
+  - [ ] 10 -**Day 06 - Encerramento.mp4**
+  - [ ] Exercícios
+    - [ ] 01 - EC2-Questões.png
+    - [ ] 02 - EC2-Questões.png
+    - [ ] 03 - EC2-Questões.png
+    - [ ] 04 - EC2-Questões.png
+    - [ ] 05 - EC2-Questões.png
+    - [ ] 06 - EC2-Questões.png
+  - [ ] Links.txt
+- [ ] **Day 07**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - EC2 - Bootstrap.mp4
+  - [ ] 03 - EC2 - Snapshot e AMI.mp4
+  - [ ] 04 - EC2 - Copiando uma instancia EC2 para outra região.mp4
+  - [ ] 05 - EC2 - Snapshot Lifecycle Manager.mp4
+  - [ ] 06 - EC2 - Placement Groups.mp4
+  - [ ] 07 - EC2 - Metadatas.mp4
+  - [ ] 08 -**Day 07 - Encerramento.mp4**
+  - [ ] Exercícios
+    - [ ] 01 - EC2-Questões.png
+    - [ ] 02 - EC2-Questões.png
+    - [ ] 03 - EC2-Questões.png
+    - [ ] 04 - EC2-Questões.png
+    - [ ] 05 - EC2-Questões.png
+    - [ ] 06 - EC2-Questões.png
+    - [ ] 07 - EC2-Questões.png
+    - [ ] 08 - EC2-Questões.png
+  - [ ] Links.txt
+- [ ] **Day 08**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - VPC - O que é VPC e entendendo um endereço de rede.mp4
+  - [ ] 03 - VPC - O que é VPC - Parte 2.mp4
+  - [ ] 04 - VPC - Criando um VPC e nossas subnets.mp4
+  - [ ] 05 - VPC - Criando mais Security Groups.mp4
+  - [ ] 06 - VPC - Criando um Internet Gateway.mp4
+  - [ ] 07 - VPC - Criando Route Tables.mp4
+  - [ ] 08 - VPC - Criando as instancias em nossas subnets.mp4
+  - [ ] Exercícios
+    - [ ] 01 - VPC-Questões.png
+    - [ ] 02 - VPC-Questões.png
+    - [ ] 03 - VPC-Questões.png
+    - [ ] 04 - VPC-Questões.png
+    - [ ] 05 - VPC-Questões.png
+    - [ ] 06 - VPC-Questões.png
+    - [ ] 07 - VPC-Questões.png
+    - [ ] 08 - VPC-Questões.png
+  - [ ] Links.txt
+- [ ] **Day 09**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - VPC - O que é NAT.mp4
+  - [ ] 03 - VPC - Criando um NAT Gateway.mp4
+  - [ ] 04 - VPC - Criando uma NAT Instances.mp4
+  - [ ] 05 - VPC - Criando a nossa Network ACLs.mp4
+  - [ ] 06 - VPC - Criando e utilizando os Elastic IPs.mp4
+  - [ ] 07 - Encerramento.mp4
+  - [ ] Exercícios
+    - [ ] 01 - Questões-VPC.png
+    - [ ] 02 - Questões-VPC.png
+    - [ ] 03 - Questões-VPC.png
+    - [ ] 04 - Questões-VPC.png
+    - [ ] 05 - Questões-VPC.png
+    - [ ] 06 - Questões-VPC.png
+- [ ] **Day 10**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - VPC - O que é VPN.mp4
+  - [ ] 03 - VPC - Site-to-Site VPN - parte 1.mp4
+  - [ ] 04 - VPC - Site-to-Site VPN - parte 2.mp4
+  - [ ] 05 - VPC - Client-to-Site VPN - parte 1.mp4
+  - [ ] 06 - VPC - Client-to-Site VPN - parte 2.mp4
+  - [ ] 07 - Encerramento.mp4
+  - [ ] Exercícios
+    - [ ] 01 - Questões-VPC.png
+    - [ ] 02 - Questões-VPC.png
+    - [ ] 03 - Questões-VPC.png
+    - [ ] 04 - Questões-VPC.png
+    - [ ] 05 - Questões-VPC.png
+  - [ ] Links.txt
+- [ ] **Day 11**
+  - [ ] 01 - Intro.mp4
+  - [ ] 02 - ELB - Parte 01.mp4
+  - [ ] 03 - ELB - Parte 02 - Application Load Balancer.mp4
+  - [ ] 04 - ELB - Parte 03 - Application Load Balancer.mp4
+  - [ ] 05 - ELB - Parte 04 - Network Load Balancer.mp4
+  - [ ] 06 - ELB - Parte 05 - Network Load Balancer.mp4
+  - [ ] 07 - AWS Auto Scaling - Parte 01 - Launch Templates.mp4
+  - [ ] 08 - AWS Auto Scaling - Parte 02 - Launch Configuration.mp4
+  - [ ] 09 - AWS Auto Scaling - Parte 03.mp4
+  - [ ] 10 - Encerramento.mp4
+- [ ] **Day 12**
+  - [ ] 01 - Intro - RDS.mp4
+  - [ ] 02 - Create database, part1.mp4
+  - [ ] 03 - Create database, part2.mp4
+  - [ ] 04 - Create database, part3.mp4
+  - [ ] 05 - Create database, part4.mp4
+  - [ ] 06 - RDS Overview, part1.mp4
+  - [ ] 07 - RDS Overview, part2.mp4
+  - [ ] 08 - Modify and Delete.mp4
+  - [ ] 09 - RDS Pricing and Final.mp4
+  - [ ] 10 - Intro Dynamodb.mp4
+  - [ ] 11 - Create Table.mp4
+  - [ ] 12 - Create Item.mp4
+  - [ ] 13 - Dynamodb overview and preferences.mp4
+  - [ ] 14 - Dynamodb final.mp4
+  - [ ] Exercícios
+    - [ ] Today's lesson.txt
+- [ ] **Day 13**
+  - [ ] 01 - Intro - Route53.mp4
+  - [ ] 02 - Overview Route 53.mp4
+  - [ ] 03 - Route 53 - Create Hosted Zone.mp4
+  - [ ] 04 - Registered Domains.mp4
+  - [ ] 05 - Transfer Domains.mp4
+  - [ ] 06 - View Registered Domains.mp4
+  - [ ] 07 - Health Checks.mp4
+  - [ ] 08 - Health Checks, part2.mp4
+  - [ ] 09 - Hands on - Hosted Zone with EC2.mp4
+  - [ ] 10 - Hands on - Hosted Zone with EC2, part2.mp4
+  - [ ] 11 - Hands on - Hosted Zone with EC2, part3.mp4
+  - [ ] 12 - Traffic Flow.mp4
+  - [ ] 13 - Traffic Flow, part2.mp4
+  - [ ] 14 - Overview, Final.mp4
+- [ ] **Day 14**
+  - [ ] 01 - Intro - AWS Cloud Trail.mp4
+  - [ ] 02 - CloudTrail - Overview.mp4
+  - [ ] 03 - Event History.mp4
+  - [ ] 04 - Event Details.mp4
+  - [ ] 05 - Create Trail.mp4
+  - [ ] 06 - Create Trail, part2.mp4
+  - [ ] 07 - Trail Details.mp4
+  - [ ] 08 - Pricing and Final.mp4
+  - [ ] 09 - AWS CloudWatch Overview.mp4
+- [ ] **Day 15**
+  - [ ] 01 - Intro - CloudWatch.mp4
+  - [ ] 02 - Overview.mp4
+  - [ ] 03 - CloudWatch Alarms.mp4
+  - [ ] 04 - Create Alarm.mp4
+  - [ ] 05 - Billing Alarm.mp4
+  - [ ] 06 - CloudWatch Logs.mp4
+  - [ ] 07 - CloudWatch Logs.mp4
+  - [ ] 08 - CloudWatch Metrics and Dashboards.mp4
+  - [ ] 09 - CloudWatch Events.mp4
+  - [ ] 10 - Final.mp4
+- [ ] **Day 16**
+  - [ ] 01 - Intro - AWS Config.mp4
+  - [ ] 02 - Setup AWS Config.mp4
+  - [ ] 03 - Create Rule.mp4
+  - [ ] 04 - Overview Config Rules.mp4
+  - [ ] 05 - Using Managed Rules.mp4
+  - [ ] 06 - Conformance Packs.mp4
+  - [ ] 07 - Overview, features and Pricing.mp4
+  - [ ] Links.txt
+- [ ] **Day 17
+  - [ ] 01 - Intro - AWS SNS - Simple Notification Service.mp4
+  - [ ] 02 - SNS - Create Topic.mp4
+  - [ ] 03 - Topic Overview.mp4
+  - [ ] 04 - Subscriptions and Publish messages.mp4
+  - [ ] 05 - Publish Messages.mp4
+  - [ ] 06 - Mobile Push notifications, overview and pricing.mp4
+  - [ ] Links.txt
+- [ ] **Day 18**
+  - [ ] 01 - Intro CloudFormation.mp4
+  - [ ] 02 - Criando o nosso VPC.mp4
+  - [ ] 03 - Criando o nosso Internet Gateway.mp4
+  - [ ] 04 - Criando as nossas Subnets.mp4
+  - [ ] 05 - Criando o nosso NAT Gateway.mp4
+  - [ ] 06 - Criando as nossas Route Tables.mp4
+  - [ ] 07 - Criando os nossos Security Group.mp4
+  - [ ] 08 - Criando as nossas instâncias e o nosso Volume.mp4
+  - [ ] 09 - Deploy do nosso template!.mp4
+  - [ ] cloud_formation_template.yml
+- [ ] **Day 19**
+  - [ ] 01 - Abertura Elastic Beanstalk.mp4
+  - [ ] 02 - Intro - Elastic Beanstalk.mp4
+  - [ ] 03 - Elastic Beanstalk - Parte 01 - Exemplo PHP.mp4
+  - [ ] 04 - Elastic Beanstalk - Parte 02 - Exemplo PHP.mp4
+  - [ ] 05 - Elastic Beanstalk - Parte 03 - Exemplo Docker.mp4
+  - [ ] 06 - Encerramento Elastic Beanstalk.mp4
+- [ ] **Day 20**
+  - [ ] 01 - Abertura OpsWorks.mp4
+  - [ ] 02 - OpsWorks - Intro.mp4
+  - [ ] 03 - OpsWorks - Criando a Nossa Stack, Layer, Instances e APP - P.mp4
+  - [ ] 04 - OpsWorks - Criando a Nossa Stack, Layer, Instances e APP - P.mp4
+  - [ ] 05 - OpsWorks - Criando a Nossa Stack, Layer, Instances e APP - P.mp4
+  - [ ] 06 - Encerramento OpsWorks.mp4
+- [ ] **Day 21
+  - [ ] 01 - Abertura API Gateway.mp4
+  - [ ] 02 - Amazon API Gateway - O que é.mp4
+  - [ ] 03 - Amazon API Gateway - Criando a nossa API exemplo.mp4
+  - [ ] 04 - Amazon API Gateway - Criando a nossa API exemplo parte 2 LIN.mp4
+  - [ ] 05 - Encerramento Amazon API Gateway.mp4
+- [ ] **Day 22**
+  - [ ] 01 - Intro - AWS Lambda.mp4
+  - [ ] 02 - Lambda Overview.mp4
+  - [ ] 03 - Lambda Applications.mp4
+  - [ ] 04 - Lambda Functions.mp4
+  - [ ] 05 - Functions from scratch.mp4
+  - [ ] 06 - Functions from scratch, part 2.mp4
+  - [ ] 07 - Functions, Variables.mp4
+  - [ ] 08 - Logging.mp4
+  - [ ] 09 - Functions settings.mp4
+  - [ ] 10 - Overview.mp4
+  - [ ] 11 - Pricing and Final.mp4
+  - [ ] Exercícios
+    - [ ] Exercício.txt
+- [ ] **Day 23**
+  - [ ] 01 - Intro - AWS Trusted Advisor.mp4
+  - [ ] 02 - Support Plans.mp4
+  - [ ] 03 - Trusted Advisor Checks.mp4
+  - [ ] 04 - Checks, Limits and Preferences.mp4
+  - [ ] 05 - Service Limit Increase and final.mp4
+- [ ] **Day 24**
+  - [ ] 01 - Intro - AWS S3.mp4
+  - [ ] 02 - Overview.mp4
+  - [ ] 03 - Create bucket.mp4
+  - [ ] 04 - Upload object.mp4
+  - [ ] 05 - Bucket properties.mp4
+  - [ ] 06 - Bucket permissions.mp4
+  - [ ] 07 - S3 Tips.mp4
+  - [ ] 08 - Pricing and Final.mp4
+- [ ] **Day 25**
+  - [ ] 01 - Intro - AWS Guard Duty.mp4
+  - [ ] 02 - Overview and Settings.mp4
+  - [ ] 03 - Settings, List and Accounts.mp4
+  - [ ] 04 - Findings.mp4
+  - [ ] 05 - Findings details.mp4
+  - [ ] 06 - Findings Types.mp4
+  - [ ] 07 - Pricing and Final.mp4
+- [ ] **Day 26**
+  - [ ] 01 - Intro - AWS Billing.mp4
+  - [ ] 02 - Permissions.mp4
+  - [ ] 03 - Enable billing to IAM UsersRole.mp4
+  - [ ] 04 - Overview.mp4
+  - [ ] 05 - Cost Explorer.mp4
+  - [ ] 06 - Budgets.mp4
+  - [ ] 07 - Budgets Reports.mp4
+  - [ ] 08 - Reserved Instances.mp4
+  - [ ] 09 - Saving Plans.mp4
+  - [ ] 10 - Cost Allocation Tags.mp4
+  - [ ] 11 - Billing preferences and final.mp4
+  - [ ] Link.txt
+- [ ] **Day 27**
+  - [ ] 01 - CodeCommit - Intro.mp4
+  - [ ] 02 - CodeCommit - Site e documentação.mp4
+  - [ ] 03 - CodeCommit - Criando o primeiro repositório.mp4
+  - [ ] 04 - CodeCommit - Criando o User no IAM e configurando a SSH key .mp4
+  - [ ] 05 - CodeCommit - Clonando o nosso repositório.mp4
+  - [ ] 06 - CodeCommit - Criando o repo utilizando o AWS CLI.mp4
+  - [ ] 07 - CodeCommit - Criando um trigger.mp4
+  - [ ] 08 - CodeCommit - Criando um trigger - Parte 02.mp4
+  - [ ] 09 - CodeCommit - Encerramento.mp4
+- [ ] **Day 28**
+  - [ ] 01 - Intro -**Day 28.mp4
+  - [ ] 02 - Criando o nosso EKS - parte 1.mp4
+  - [ ] 03 - Criando o nosso EKS - parte 2.mp4
+  - [ ] 04 - Criando o nosso EKS - parte 3.mp4
+  - [ ] 05 - Configurando o external-dns.mp4
+  - [ ] 06 - Configurando o cert-manager e testando o external-dns LINUXt.mp4
+  - [ ] 07 - Deploy do Gitlab usando o Helm.mp4
+  - [ ] 08 - Testando o nosso Gitlab.mp4
+  - [ ] 09 - Ultima volta em nossa solução.mp4
+  - [ ] 10 - Encerramento -**Day 28.mp4
+  - [ ] Detalhes.txt

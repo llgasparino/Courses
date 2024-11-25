@@ -1,0 +1,205 @@
+# Algomania Checklist
+- [ ]  01 - Introdução
+   - [ ]  01 - Compilador Python.url
+   - [ ]  01 - PyCharm Community.url
+   - [ ]  01 - Utilizando a plataforma .mp4
+   - [ ]  02 - Sindrome do Impostor.ts
+   - [ ]  03 - Planejamento dos estudos.mp4
+   - [ ]  03 - Planilha de planejamento de estudos.url
+   - [ ]  04 - Código Limpo.mp4
+   - [ ]  05 - Passo a passo na criação de um Algoritmo.mp4
+   - [ ]  Descrições Aulas.rtf
+- [ ]  02 - Big (o)
+   - [ ]  01 - Introdução.ts
+   - [ ]  02 - Como extrair a métrica.ts
+   - [ ]  03 - Tempo constante O(1).mp4
+   - [ ]  04 - Tempo linear O(n).ts
+   - [ ]  05 - Tempo logarítmico O (log n).ts
+   - [ ]  06 - Tempo quadrático O (n^2).mp4
+   - [ ]  07 - Tempo exponencial O (2^n).ts
+   - [ ]  08 - Tempo fatorial O (n!).mp4
+   - [ ]  09 - Conclusão.ts
+   - [ ]  Descrições Aulas.rtf
+- [ ]  03 - Estruturas de Dados
+   - [ ]  01 - Introdução.ts
+   - [ ]  02 - Arrays.ts
+   - [ ]  03 - Strings.ts
+   - [ ]  04 - Linked Lists.ts
+   - [ ]  05 - Stacks.ts
+   - [ ]  06 - Binary Tree.ts
+   - [ ]  07 - Heap.ts
+   - [ ]  08 - Hash Tables.ts
+   - [ ]  09 - Conclusão.ts
+   - [ ]  Descrições Aulas.rtf
+- [ ]  04 - Heurísticas e Técnicas
+   - [ ]  01 - Introdução.ts
+   - [ ]  02 - Two Pointers.ts
+   - [ ]  03 - Window Sliding.ts
+   - [ ]  04 - Fast & Slow Pointers.ts
+   - [ ]  05 - Breadth First Search.ts
+   - [ ]  06 - Deep First Search.ts
+   - [ ]  07 - Dynamic Programming.ts
+   - [ ]  08 - Conclusão.ts
+   - [ ]  Descrições Aulas.rtf
+- [ ]  Bônus - Como se dar bem nas entrevistas
+   - [ ]  Bônus 1 O processo seletivo.ts
+   - [ ]  Bônus 2 As 10 regras de ouro para se destacar.ts
+   - [ ]  Bônus 3 Introdução a System Design.ts
+   - [ ]  Bônus 3 System Design Cheatsheet (Em inglês).url
+   - [ ]  Bônus 3 System Design Guia Completo (Em inglês).url
+- [ ]  Desafios
+    - [ ]  01 - Nível Básico
+       - [ ]  Compare Binary Trees
+          - [ ]  01.png
+          - [ ]  02.png
+          - [ ]  Solução 1- Deep Firest Search.ts
+          - [ ]  Solução 2- Breadth First Search.ts
+          - [ ]  descrição.rtf
+          - [ ]  inicio.java
+          - [ ]  inicio.js
+          - [ ]  inicio.py
+       - [ ]  Create Linked Lists
+          - [ ]  Solução - Criando um Linked List.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+       - [ ]  Desafios Basicos.png
+       - [ ]  Invert Binary Tree
+          - [ ]  Solução - Invert Binary Tree.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendação.png
+       - [ ]  Minimum Depth Of Binary Tree
+          - [ ]  Solução - Minimum Depth Of Binary Tree.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Palindrome Check
+          - [ ]  Solução 1 - O(N) - O(N).mp4
+          - [ ]  Solução 2 - O(N) - O(1).mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+       - [ ]  Two Sum
+          - [ ]  Solução 1  O(N2) - Two Sum.mp4
+          - [ ]  Solução 2 - O(n) - Two Sum.mp4
+          - [ ]  Solução 3 - O(n log(n)) - Two Sum.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+       - [ ]  Valid Parentheses
+           - [ ]  Solução - Valid Parentheses.mp4
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  descrição.rtf
+    - [ ]  02 - Nível Intermediário
+       - [ ]  Decode String
+          - [ ]  Solução - Decode String - 1920x1080 1255K.ts
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Desafios Intermediários.png
+       - [ ]  Detect Circular Linked List
+          - [ ]  SOlução - O(N).mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Longest Substring Without Repeating Characters
+          - [ ]  Solução - Longest Substring Without Repeating Characters - 1920x1080 474K.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Max Consecutives Ones
+          - [ ]  Solução - O(n) - Max Consecutives Ones - 1920x1080 462K.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+       - [ ]  Path Sum 2
+          - [ ]  Solução - Path Sum 2 - 1920x1080 1035K.ts
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Simplify Path
+          - [ ]  Solução - Simplify Path - 1920x1080 585K.mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrições.rtf
+          - [ ]  recomendações.png
+       - [ ]  Three Sum
+          - [ ]  Solução 1 - O(N3).mp4
+          - [ ]  Solução 2 - O(N2).mp4
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Top K Most Frequent Element
+          - [ ]  Solução 1 - O(n log n) - Top K Most Frequent Element - 1920x1080 1192K.ts
+          - [ ]  Solução 2 - O(n log k) - Top K Most Frequent Element - 1920x1080 429K.mp4
+          - [ ]  Solução 3 - O(n) - Top K Most Frequent Element - 1920x1080 1138K.ts
+          - [ ]  desafio.java
+          - [ ]  desafio.js
+          - [ ]  desafio.py
+          - [ ]  descrição.rtf
+          - [ ]  recomendações.png
+       - [ ]  Word Search
+           - [ ]  Solução - Word Search.mp4
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  desafio.rtf
+           - [ ]  recomendações.png
+    - [ ]  03 - Nível Avançado
+        - [ ]  Desafios Avançados.png
+        - [ ]  Four Sum
+           - [ ]  Solução - Four Sum - 1920x1080 680K.mp4
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  descrição.rtf
+           - [ ]  recomendações.png
+        - [ ]  Longest Increasing Path In A Matrix
+           - [ ]  Solução - Longest Increasing Path In A Matrix - 1920x1080 1176K.ts
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  descrição.rtf
+           - [ ]  recomendações.png
+        - [ ]  Max Heap
+           - [ ]  Solução - Max Heap - 1920x1080 1051K.ts
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  descrição.rtf
+        - [ ]  Maximum Path Sum
+           - [ ]  Solução - Maximum Path Sum - 1920x1080 604K.mp4
+           - [ ]  desafio.java
+           - [ ]  desafio.js
+           - [ ]  desafio.py
+           - [ ]  descrição.rtf
+           - [ ]  recomendações.png
+        - [ ]  Subarray Sort
+            - [ ]  Solução - Subarray Sort - 1920x1080 695K.mp4
+            - [ ]  desafio.java
+            - [ ]  desafio.js
+            - [ ]  desafio.py
+            - [ ]  descrição.rtf
+            - [ ]  recomendações.png
