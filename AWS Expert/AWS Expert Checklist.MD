@@ -68,8 +68,8 @@
     - [x] Today's Lesson.txt
   - [x] Links.txt
 - [ ] **Day 05**
-  - [ ] 01 - Intro.mp4
-  - [ ] 02 - Cross Account Roles.mp4
+  - [x] 01 - Intro.mp4
+  - [x] 02 - Cross Account Roles.mp4
   - [ ] 03 - Assume Role.mp4
   - [ ] 04 - Create Policies.mp4
   - [ ] 05 - Error on Create Policy.mp4
@@ -240,7 +240,7 @@
   - [ ] 06 - Conformance Packs.mp4
   - [ ] 07 - Overview, features and Pricing.mp4
   - [ ] Links.txt
-- [ ] **Day 17
+- [ ] \*\*Day 17
   - [ ] 01 - Intro - AWS SNS - Simple Notification Service.mp4
   - [ ] 02 - SNS - Create Topic.mp4
   - [ ] 03 - Topic Overview.mp4
@@ -273,7 +273,7 @@
   - [ ] 04 - OpsWorks - Criando a Nossa Stack, Layer, Instances e APP - P.mp4
   - [ ] 05 - OpsWorks - Criando a Nossa Stack, Layer, Instances e APP - P.mp4
   - [ ] 06 - Encerramento OpsWorks.mp4
-- [ ] **Day 21
+- [ ] \*\*Day 21
   - [ ] 01 - Abertura API Gateway.mp4
   - [ ] 02 - Amazon API Gateway - O que é.mp4
   - [ ] 03 - Amazon API Gateway - Criando a nossa API exemplo.mp4
@@ -340,7 +340,7 @@
   - [ ] 08 - CodeCommit - Criando um trigger - Parte 02.mp4
   - [ ] 09 - CodeCommit - Encerramento.mp4
 - [ ] **Day 28**
-  - [ ] 01 - Intro -**Day 28.mp4
+  - [ ] 01 - Intro -\*\*Day 28.mp4
   - [ ] 02 - Criando o nosso EKS - parte 1.mp4
   - [ ] 03 - Criando o nosso EKS - parte 2.mp4
   - [ ] 04 - Criando o nosso EKS - parte 3.mp4
@@ -349,5 +349,5 @@
   - [ ] 07 - Deploy do Gitlab usando o Helm.mp4
   - [ ] 08 - Testando o nosso Gitlab.mp4
   - [ ] 09 - Ultima volta em nossa solução.mp4
-  - [ ] 10 - Encerramento -**Day 28.mp4
+  - [ ] 10 - Encerramento -\*\*Day 28.mp4
   - [ ] Detalhes.txt
