@@ -400,3 +400,5 @@ FodyWeavers.xsd
 # Personal
 infra.md
 1_Cronograma Copystart.pdf
+.servers
+.temp*
