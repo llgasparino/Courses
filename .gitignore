@@ -402,3 +402,5 @@ infra.md
 1_Cronograma Copystart.pdf
 .servers
 .temp*
+MNIST_dat
+MNIST_data
